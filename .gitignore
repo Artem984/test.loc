@@ -2,3 +2,7 @@
 bitrix/
 # Исключение папки .idea
 .idea/
+# файла
+start_encode.tar.gz
+#
+business_encode.tar.gz
