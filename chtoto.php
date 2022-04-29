@@ -1,0 +1,9 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("чтото");
+?>Текст....
+<?$APPLICATION->IncludeComponent(
+	"bitrix:highloadblock.view",
+	"",
+Array()
+);?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

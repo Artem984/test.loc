@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"РЫБЫ.НЕТ", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Главная", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"#news", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Галерея", 
+		"#portfolio", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"#contact", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

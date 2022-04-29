@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"чтото", 
+		"/chtoto.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новый раздел", 
+		"/novyy-razdel/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"newsdetal", 
+		"/newsdetal.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"детальная_новость", 
+		"/detalnaya-novost/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
